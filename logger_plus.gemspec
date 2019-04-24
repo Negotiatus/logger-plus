@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "logger_plus"
   spec.version       = LoggerPlus::VERSION
   spec.authors       = ["Timothy Stephens"]
-  spec.email         = ["timothy.f.stephens@gmail.com"]
+  spec.email         = ["tim.stephens@negotiatus.com"]
 
   spec.summary       = "Logger Plus"
   spec.description   = %q{Logger Plus allows any additional information to be passed in the log method}

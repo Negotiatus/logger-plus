@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    logger_plus (0.1.0)
+    logger_plus (0.1.0.pre.alpha)
       logger
 
 GEM
